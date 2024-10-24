@@ -1,0 +1,21 @@
+apt install django
+
+apt install rest_framework
+
+pip install django djangorestframework psycopg2
+
+frontend
+
+- cd reactfrontend
+
+- npm install (dependencies)
+
+- npm start
+
+Backend 
+
+- cd djangobackend
+
+- pip install -r requirements.txt
+
+- python manage.py runserver
